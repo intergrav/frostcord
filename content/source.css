@@ -2,6 +2,6 @@
 /* The Frostcord theme itself */
 
 div {
-    backdrop-filter: --blur;
-    fill-opacity: 90%;
+    backdrop-filter: blur(--blur);
+    fill-opacity: --opacity;
 }
