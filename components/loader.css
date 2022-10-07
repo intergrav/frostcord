@@ -1,0 +1,4 @@
+/* Loader component for Frostcord */
+/* Imports components for you, whereas the main theme CSS file loads this. This is so that you don't need to update for patches */
+
+@import url("https://intergrav.github.io/frostcord/components/blur.css");
