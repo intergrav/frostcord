@@ -1,6 +1,6 @@
 # ❄️ Frostcord
 
-Discord theme that simply makes backgrounds have a slight, configurable blur.
+Discord theme that simply gives a few backgrounds a slight, configurable blur.
 
 ## Screenshots
 
