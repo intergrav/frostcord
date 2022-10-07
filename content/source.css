@@ -1,0 +1,7 @@
+/* Source CSS */
+/* The Frostcord theme itself */
+
+div {
+    backdrop-filter: --blur;
+    fill-opacity: 90%;
+}
