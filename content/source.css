@@ -1,7 +1,12 @@
 /* Source CSS */
 /* The Frostcord theme itself */
 
-.userProfileOuter-1K_BYU {
+/* User Popout */ .userPopoutOuter-3AVBmJ,
+/* Chat Menus (emojis, gifs etc) */ .drawerSizingWrapper-1txdWG,
+/* Pinned Messages */ .messagesPopoutWrap-3zryHW,
+/* Thread Browser */ .browser-mnQ1T7,
+/* Recent Mentions */ .recentMentionsPopout-2bI1ZN
+{
     backdrop-filter: blur(var(--blur));
-    opacity: var(--opacity);
+    filter: opacity(var(--opacity));
 }
