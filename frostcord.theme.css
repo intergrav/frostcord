@@ -1,9 +1,17 @@
 /**
  * @name Frostcord
  * @version 1.0.0
- * @description Gives menus a slight blur
+ * @description Discord theme that simply gives menus a slight blur
  * @author intergrav
  *
- * @website http://github.com/intergrav
+ * @website https://intergrav.github.io/frostcord/
  * @source https://github.com/intergrav/frostcord
  */
+
+@import url("https://intergrav.github.io/frostcord/components/loader.css");
+
+ :root {
+    /* General */
+    --blur: 16px; /* Adjust the blur. Default '16px' */
+    --opacity: 90%; /* Adjust the opacity. Default '90%' */
+ }
