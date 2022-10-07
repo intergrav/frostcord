@@ -10,4 +10,4 @@ Discord theme that simply makes backgrounds have a slight, configurable blur.
 
 ## ⚠️ Disclaimer
 
-This is still a work in progress, and could break with any Discord update. If you have any suggestions for blurring, please make an issue 🙂
+This is still a work in progress, and could break with any Discord update. Also, if you have any menu suggestions to add to the list, please make an issue 🙂
