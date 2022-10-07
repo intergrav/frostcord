@@ -6,9 +6,9 @@
 /* Pinned Messages */ .messagesPopoutWrap-3zryHW,
 /* Thread Browser */ .browser-mnQ1T7,
 /* Recent Mentions */ .recentMentionsPopout-2bI1ZN
-/* Channel Thread Popout */ .popout-TdhJ6Z,
 /* Guild Header Popout */ #guild-header-popout,
-/* Search Popout */ .container-2McqkF
+/* Search Popout */ .container-2McqkF,
+/* Channel Thread Popout */ .popout-TdhJ6Z
 {
     backdrop-filter: blur(var(--blur));
     filter: opacity(var(--opacity));
