@@ -10,7 +10,7 @@
 
 @import url("https://intergrav.github.io/frostcord/components/source.css");
 
- :root {
+:root {
     /* General */
     --blur: 16px; /* Adjust the blur. Default '16px' */
     --opacity: 90%; /* Adjust the opacity. Default '90%' */

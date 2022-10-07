@@ -1,7 +1,7 @@
 /* Source CSS */
 /* The Frostcord theme itself */
 
-div {
-    backdrop-filter: blur(--blur);
-    fill-opacity: --opacity;
+.userProfileOuter-1K_BYU {
+    backdrop-filter: blur(var(--blur));
+    opacity: var(--opacity);
 }
